@@ -1,4 +1,7 @@
-*.iml
+
+# *.iml
+# stackoverflow confirms this kind of file is necessary bu t can cause conflicts if zou want to rename the folder on the target clone
+
 .gradle
 /local.properties
 /.idea/workspace.xml
